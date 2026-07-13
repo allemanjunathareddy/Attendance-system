@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕐 AttendEase - Employee Attendance System
 
 A full-stack Employee Attendance Management System built with the MERN stack (MongoDB, Express.js, React, Node.js).
@@ -319,3 +320,7 @@ This project is created for educational purposes as part of the SDE Internship t
 ---
 
 
+=======
+# Attendance-system
+Attenadnce System
+>>>>>>> 46a9f1a5f551748b891ecc9aad6ea0e9b9c9e9e2
